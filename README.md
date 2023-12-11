@@ -51,3 +51,8 @@ You can click the Preview link to take a look at your changes.
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderiksenthil&layout=compact&theme=dark)](https://github.com/coderiksenthil/github-readme-stats)
+
+| [![coderiksenthil GitHub stats](https://github-readme-stats.vercel.app/api?username=coderiksenthil&show_icons=true&theme=tokyonight)](https://github.com/coderiksenthil/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=coderiksenthil&theme=tokyonight)](https://git.io/streak-stats) |
+| :--- | ---: |
