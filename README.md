@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 ## ✉️ Find me on:
 
 <p align="center">
-  <a href="http://twitter.com/eddiejaoude">
+  <a href="http://twitter.com/coderiksenthil">
     <img src="https://img.shields.io/badge/follow-%40coderiksenthil%2030+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
   </a>
   <a href="https://www.youtube.com/channel/UCfoGjO2jxcPgBR1VMVkdYvQ">
