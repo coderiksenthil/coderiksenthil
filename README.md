@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Senthil Kumar 👋</h1>
 <p align="center">
   <em>Building the web, exploring Linux, & making FOSS projects fun!</em><br>
-  <strong>Frontend Dev | Linux Enthusiast | Python & C Programmer</strong>
+  <strong>Frontend Dev | Linux Enthusiast | Python & C Programmer | AI/ML & Data Science</strong>
 </p>
 
 ---
